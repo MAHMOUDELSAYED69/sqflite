@@ -42,4 +42,4 @@ You can easily customize the database structure by modifying the table definitio
 
 ## Contact
 
-For any questions or feedback, please reach out via email: [gcfjxvkj@gmail.com](gcfjxvkj@gmail.com)
+For any questions or feedback, please reach out via email: [mahmoudelsayed.dev@gmail.com](mahmoudelsayed.dev@gmail.com)
